@@ -1,0 +1,11 @@
+C:\Users\CAAdmin\source\repos\ApplicationPOC\bin\Debug\netstandard2.0\NUnit3.TestAdapter.dll
+C:\Users\CAAdmin\source\repos\ApplicationPOC\bin\Debug\netstandard2.0\NUnit3.TestAdapter.pdb
+C:\Users\CAAdmin\source\repos\ApplicationPOC\bin\Debug\netstandard2.0\nunit.engine.dll
+C:\Users\CAAdmin\source\repos\ApplicationPOC\bin\Debug\netstandard2.0\nunit.engine.api.dll
+C:\Users\CAAdmin\source\repos\ApplicationPOC\bin\Debug\netstandard2.0\ApplicationPOC.deps.json
+C:\Users\CAAdmin\source\repos\ApplicationPOC\bin\Debug\netstandard2.0\ApplicationPOC.dll
+C:\Users\CAAdmin\source\repos\ApplicationPOC\bin\Debug\netstandard2.0\ApplicationPOC.pdb
+C:\Users\CAAdmin\source\repos\ApplicationPOC\obj\Debug\netstandard2.0\ApplicationPOC.csprojAssemblyReference.cache
+C:\Users\CAAdmin\source\repos\ApplicationPOC\obj\Debug\netstandard2.0\ApplicationPOC.csproj.CoreCompileInputs.cache
+C:\Users\CAAdmin\source\repos\ApplicationPOC\obj\Debug\netstandard2.0\ApplicationPOC.dll
+C:\Users\CAAdmin\source\repos\ApplicationPOC\obj\Debug\netstandard2.0\ApplicationPOC.pdb

@@ -1,0 +1,14 @@
+{
+    "testCases": [
+        {
+            "methodName": "stringAdd",
+            "input": ["iiht", "techademy" ],
+            "expectedOutput": "iihttechademy"
+        },
+        {
+            "methodName": "stringAdd",
+            "input": ["string", "concate"],
+            "expectedOutput": "stringconcate"
+        }
+    ]
+}

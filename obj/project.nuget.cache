@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "5WWGOeXc3KwUhGHN3ShmlhIavrKV6u1BvnHSEwQK5sVYSn6VVtgcwopd2d3k+V+/JrT+vwTv7/u3IDc9CIUuuw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\CAAdmin\\source\\repos\\ApplicationPOC\\ApplicationPOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CAAdmin\\.nuget\\packages\\microsoft.net.test.sdk\\16.4.0\\microsoft.net.test.sdk.16.4.0.nupkg.sha512",
+    "C:\\Users\\CAAdmin\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\CAAdmin\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\CAAdmin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\CAAdmin\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\CAAdmin\\.nuget\\packages\\nunit3testadapter\\3.15.1\\nunit3testadapter.3.15.1.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NUnit3TestAdapter 3.15.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "NUnit3TestAdapter",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}
