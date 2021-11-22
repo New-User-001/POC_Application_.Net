@@ -59,7 +59,7 @@
         },
         {
             "label": "commit",
-            "command": "git commit",
+            "command": "git commit -a",
             "type": "shell",
             "problemMatcher": "$msCompile",
             "dependsOn": ["stage"]
