@@ -1,7 +1,5 @@
 c:\Users\CAAdmin\source\repos\ApplicationPOC\TestCases\obj\Debug\netcoreapp3.1\TestCases.csprojAssemblyReference.cache
 c:\Users\CAAdmin\source\repos\ApplicationPOC\TestCases\obj\Debug\netcoreapp3.1\TestCases.csproj.CoreCompileInputs.cache
-c:\Users\CAAdmin\source\repos\ApplicationPOC\TestCases\obj\Debug\netcoreapp3.1\TestCases.AssemblyInfoInputs.cache
-c:\Users\CAAdmin\source\repos\ApplicationPOC\TestCases\obj\Debug\netcoreapp3.1\TestCases.AssemblyInfo.cs
 c:\Users\CAAdmin\source\repos\ApplicationPOC\TestCases\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.dll
 c:\Users\CAAdmin\source\repos\ApplicationPOC\TestCases\bin\Debug\netcoreapp3.1\NUnit3.TestAdapter.pdb
 c:\Users\CAAdmin\source\repos\ApplicationPOC\TestCases\bin\Debug\netcoreapp3.1\nunit.engine.dll
@@ -96,3 +94,4 @@ c:\Users\CAAdmin\source\repos\ApplicationPOC\TestCases\obj\Debug\netcoreapp3.1\T
 c:\Users\CAAdmin\source\repos\ApplicationPOC\TestCases\obj\Debug\netcoreapp3.1\TestCases.genruntimeconfig.cache
 c:\Users\CAAdmin\source\repos\ApplicationPOC\TestCases\bin\Debug\netcoreapp3.1\ApplicationPOC.dll
 c:\Users\CAAdmin\source\repos\ApplicationPOC\TestCases\bin\Debug\netcoreapp3.1\ApplicationPOC.pdb
+C:\Users\CAAdmin\source\repos\ApplicationPOC\TestCases\bin\Debug\netcoreapp3.1\TestCase.json

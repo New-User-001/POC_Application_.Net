@@ -11,7 +11,8 @@
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
-            "problemMatcher": "$msCompile"
+            "problemMatcher": "$msCompile",
+            "dependsOn": ["test"]
         },
         {
             "label": "publish",
@@ -41,14 +42,27 @@
         {
             "label": "test",
             "command": "dotnet",
-            "args": [ 
+            "type": "shell",
+            "group": "test", 
+            "args": [
                 "test",
-                "run",
-                "${workspaceFolder}/TestCases/TestCases.csproj",
-                "/property:GenerateFullPaths=true",
-                "/consoleloggerparameters:NoSummary"
-            ],
-            "problemMatcher": "$msCompile"
+                "${workspaceFolder}/TestCases/TestCases.csproj"
+            ]       , 
+            "problemMatcher": "$msCompile",
+            "dependsOn": ["commit"]
+        },
+        {
+            "label": "stage",
+            "command": "git add *",
+            "type": "shell",
+            "problemMatcher": "$msCompile",
+        },
+        {
+            "label": "commit",
+            "command": "git commit",
+            "type": "shell",
+            "problemMatcher": "$msCompile",
+            "dependsOn": ["stage"]
         }
     ]
 }

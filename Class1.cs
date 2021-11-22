@@ -5,19 +5,29 @@ namespace ApplicationPOC
 {
     public class POC
     {
-        public string stringAdd(string s1,string s2)
+        public string s3;
+        public int summationData;
+        public void stringAdd()
         {
-            return s1 + s2;
+            string s1 = "IIHT";
+            string s2 = "Techademy";
+            s3 = s1 + s2;
         }
 
-        public long longCount(List<long> data)
+        public void intSum()
         {
-            return data.Count;
+            int n1 = 20, n2 = 10;
+            summationData = n1 + n2;
         }
 
         public long indexValue(List<long> data, int index)
         {
             return data[index];
         }
+
+        public void Divide(int num1, int num2){
+            var result = num1/num2;
+        }
+
     }
 }

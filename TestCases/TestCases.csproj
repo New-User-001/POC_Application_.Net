@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GenerateTargetFrameworkAttribute>false</GenerateTargetFrameworkAttribute>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     <IsPackable>false</IsPackable>
     <IsTestProject>true</IsTestProject>
   </PropertyGroup>
@@ -15,5 +17,10 @@
   <ItemGroup>
     <ProjectReference Include="..\ApplicationPOC.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="TestCase.json" CopyToOutputDirectory="always"/>
+  </ItemGroup>
+
 
 </Project>
